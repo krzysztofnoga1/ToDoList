@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ToDo List</string>
+    <string name="tasks">Zadania</string>
+    <string name="task_title">Zadanie</string>
+    <string name="task_description">Opis</string>
+    <string name="add_btn">Dodaj</string>
+    <string name="date">Data</string>
+    <string name="hour">Godzina</string>
+    <string name="notifications_on">Włącz powiadomienia</string>
+    <string name="category">Kategoria</string>
+    <string name="save">Zapisz</string>
+    <string name="search">Szukaj</string>
+    <string name="add_attachment">Dodaj załącznik</string>
+    <string name="attachment">Załącznik</string>
+    <string name="no_attachment">Brak załącznika</string>
+    <string name="undone_only">Pokazuj tylko niezakończone zadania</string>
+    <string name="sort">Sortuj według pilności zadania</string>
+    <string name="category_filter">Wyświetlaj zadania z danej kategorii</string>
+    <string name="confirm">Potwierdź</string>
+    <string name="ok">OK</string>
+    <string name="delete_attachment">Usuń załącznik</string>
+    <string name="edit_attachment">Edytuj załącznik</string>
+    <string name="minutes">Czas powiadomień (liczba minut przed czasem wykonania zadania)</string>
+    <string name="minutes_hint">Minuty</string>
+</resources>
