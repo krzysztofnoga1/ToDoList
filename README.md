@@ -1,10 +1,10 @@
 
-# ToDo List
+# ToDo List ✅
 
 ToDo List is Java-based application that helps users to manage tasks and schedule their responsibilities. 
 
 
-# Key features
+# Key features ⚙️
 
 ### Adding tasks
 
@@ -22,7 +22,7 @@ The application allows user to search for task by name.
 
 The tasks can by sorted by dealine and filtered by category or status.
 
-# Screenshots
+# Screenshots 📸
 
 ![App screenshot](https://i.postimg.cc/SxK5Nq36/1695545851634.jpg)
 
