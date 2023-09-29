@@ -22,6 +22,10 @@ The application allows user to search for task by name.
 
 The tasks can by sorted by dealine and filtered by category or status.
 
+# Live demo 🎥
+
+https://github.com/krzysztofnoga1/ToDoList/assets/103099396/17280286-40b5-402b-8b7b-d1f1b8721f19
+
 # Screenshots 📸
 
 ![App screenshot](https://i.postimg.cc/SxK5Nq36/1695545851634.jpg)
